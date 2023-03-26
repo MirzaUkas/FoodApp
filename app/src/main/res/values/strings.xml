@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="search_food">Cari makanan</string>
+    <string name="description">Deskripsi</string>
+    <string name="origin">Asal Daerah</string>
+    <string name="back">Kembali</string>
+    <string name="about_page">About Page</string>
+    <string name="share">Share</string>
+    <string name="email">mirzauksyh@gmail.com</string>
+    <string name="name">Mirza Ukasyah Yazdani</string>
+    <string name="delicious_food">Delicious Food</string>
+</resources>
